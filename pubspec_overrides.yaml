@@ -1,0 +1,7 @@
+dependency_overrides:
+  enspyr_lints:
+    git: https://github.com/enspyrco/enspyr_lints
+
+# dependency_overrides:
+#   types_for_perception:
+#     path: ../../../flutter/utils/types_for_perception
